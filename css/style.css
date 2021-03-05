@@ -1,0 +1,43 @@
+*{
+    color: black !important;
+}
+
+nav{
+    background-color: white !important;
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,0.14),0 2px 1px -1px rgba(0,0,0,0.12),0 1px 2px 0 rgba(0,0,0,0.2);
+    color: black;
+}
+.nav-wrapper{
+    background: #FFFFFF;
+    color: black !important;
+    align-content: center !important;
+    /* linear-gradient(#2be15d, #2dbb54); */
+}
+
+.brand-logo {
+    color: black !important;
+}
+
+.x-ride-logo{
+    padding-left: 15px;
+    height: 65px !important;
+}
+
+.search-div {
+    max-width: 10%;
+}
+
+.hide-on-med-and-down{
+    padding-right: 5px;
+}
+
+.hide-on-med-and-down li {
+    border-left: 1px solid rgba(0,0,0,0.14);
+}
+
+
+.container {
+    background-color: red;
+    min-height: 200vh;
+    width: 100%;
+}

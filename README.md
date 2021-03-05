@@ -1,1 +1,2 @@
-# xridegh.com\n use https://www.lyft.com/ as a clone
+# xridegh.com
+use https://www.lyft.com/ as a clon
